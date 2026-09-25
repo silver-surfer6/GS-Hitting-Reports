@@ -1,0 +1,5 @@
+r-base
+r-cran-dplyr
+r-cran-readr
+r-cran-ggplot2
+r-cran-png
